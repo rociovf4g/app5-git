@@ -2,7 +2,7 @@
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
   xmlns:gap="http://phonegap.com/ns/1.0"
-  id ="com.phonegap.app4"
+  id ="com.phonegap.app5"
   version ="1.0.0">
   
   <name>app5-Advertencias del Dispositivo</name>
